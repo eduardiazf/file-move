@@ -1,7 +1,7 @@
 file-move
 =======
 
-This is a module to move files
+This is a module to move file
 
 # Install
 
