@@ -1,6 +1,6 @@
 {
   "name": "file-move",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "fs-moveFile",
   "main": "index.js",
   "scripts": {
