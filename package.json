@@ -1,0 +1,21 @@
+{
+  "name": "fs-move",
+  "version": "0.0.1",
+  "description": "fs-move",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/EduardoDiaz/fs-move.git"
+  },
+  "keywords": [
+    "file",
+    "move"
+  ],
+  "author": "Eduardo Diaz @eduardo_l_diaz",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "9ca529bbc3daaa919059d1ec97e02bbdbf78f1fa"
+}
