@@ -1,5 +1,5 @@
 {
-  "name": "fs-move",
+  "name": "file-move",
   "version": "0.0.1",
   "description": "fs-moveFile",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/EduardoDiaz/fs-move.git"
+    "url": "git@github.com:EduardoDiaz/file-move.git"
   },
   "keywords": [
     "file",
@@ -17,5 +17,8 @@
   "author": "Eduardo Diaz @eduardo_l_diaz",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "9ca529bbc3daaa919059d1ec97e02bbdbf78f1fa"
+  "gitHead": "9ca529bbc3daaa919059d1ec97e02bbdbf78f1fa",
+  "devDependencies": {
+    "testutil": "~0.5.1"
+  }
 }
